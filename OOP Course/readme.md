@@ -1,9 +1,9 @@
 #OOP Course Training Contents : 
 -------------------------------
-1- classes introduction\n
-2- constructor & destructor
-3- New & Delete
-4-
+* 1- classes introduction\n
+* 2- constructor & destructor
+* 3- New & Delete
+* 4-
 5-
 6-
 7-
