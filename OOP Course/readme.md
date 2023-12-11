@@ -6,7 +6,7 @@
 * 4- Enum
 * 5- Arrays and pointers with objects
 * 6- static members (variables & functions)
-*7-
+* 7-
 8-
 9-
 10-
