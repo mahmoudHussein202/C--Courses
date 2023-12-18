@@ -8,9 +8,9 @@
 * 6- static members (variables & functions)
 * 7- Const object and Constant Functions
 * 8- Friend Classes and fucntions
-* 9-
-10-
-11-
+* 9- this
+* 10- operator overloading (unary,binary,relational,friend,i/o)
+* 11-
 12-
 13-
 14-
