@@ -17,7 +17,7 @@
 # this in polymorphism :
 
 * [this->] in the main class will be replaced by the pointer defined from the main class.
-    <example> this->area();     -------will be------>    ptr_1->area()       
+    <example> this->area();----will be---->ptr_1->area()       
 
 * with <polymorphism> you can make an array of different datatypes [Array_Of_Pointers_to_the_Main_Class]
 
