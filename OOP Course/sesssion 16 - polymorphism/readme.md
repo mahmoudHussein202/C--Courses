@@ -11,17 +11,17 @@
      function in the sub class.
 * [Pure_Virtual_Function] is a virtual function without a body
         <example> virtual set_value(void) = 0 ;
-    - the class which contain a pure virtual function is called <Abstract Class>
-    - <Abstract Class> we can define only pointers from that class, we can't define objects
+    - the class which contain a pure virtual function is called -Abstract Class-
+    - Abstract Class: we can define only pointers from that class, we can't define objects
 
 # [this->] in polymorphism :
 
 * [this->] in the main class will be replaced by the pointer defined from the main class.
-    - <example> this->area();----will be---->ptr_1->area()       
+    - Example: this->area();----will be---->ptr_1->area()       
 
 * with <polymorphism> you can make an array of different datatypes [Array_Of_Pointers_to_the_Main_Class]
 
 # Early Binding & Late Binding :
 
-* <Early binding > direct assign of the pointer of the polymorphism main class. <ex> class *ptr = &obj;
-* <Late binding > indirect assign of the pointer of the polymorphism main class.
+* Early binding: direct assign of the pointer of the polymorphism main class. <ex> class *ptr = &obj;
+* Late binding: indirect assign of the pointer of the polymorphism main class.
