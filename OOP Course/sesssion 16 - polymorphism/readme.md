@@ -10,7 +10,7 @@
     definition in one of the sub classes, so if polymorphism is applied, the compiler will use the
      function in the sub class.
 * [Pure_Virtual_Function] is a virtual function without a body
-        <example> virtual set_value(void) = 0 ;
+        Example: virtual set_value(void) = 0 ;
     - the class which contain a pure virtual function is called -Abstract Class-
     - Abstract Class: we can define only pointers from that class, we can't define objects
 
