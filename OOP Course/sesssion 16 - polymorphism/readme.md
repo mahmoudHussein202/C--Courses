@@ -1,9 +1,9 @@
-# --------------------------------Polymorphism------------------------------------------# 
+# -----------Polymorphism-----------
 * polymorphism is to make the object of one class have different behaviors
 *  - it starts with definition of a class & sub classes of that class.
    - then make a pointer of that super class, and assign it the address of the sub class you like
     [ note that the sub classes are the way you want these object to behave]
-===================================================================================================
+==============================
 # Virtual Keyword :
 =============================
 * virtual is a compiler keyword which you declare that the function in the super class have another 
@@ -15,12 +15,12 @@
     - <Abstract Class> we can define only pointers from that class, we can't define objects
 ==================================================================================================
 # this in polymorphism :
-==============================
+======================
 * [this->] in the main class will be replaced by the pointer defined from the main class.
     <example> this->area();     -------will be------>    ptr_1->area()       
-==================================================================================================
+=======================================================================================
 * with <polymorphism> you can make an array of different datatypes [Array_Of_Pointers_to_the_Main_Class]
-==================================================================================================
+===========================================================
 # Early Binding & Late Binding :
 =============================== 
 * <Early binding > direct assign of the pointer of the polymorphism main class. <ex> class *ptr = &obj;
