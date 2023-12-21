@@ -14,7 +14,7 @@
     - the class which contain a pure virtual function is called <Abstract Class>
     - <Abstract Class> we can define only pointers from that class, we can't define objects
 
-# this in polymorphism :
+# [this->] in polymorphism :
 
 * [this->] in the main class will be replaced by the pointer defined from the main class.
     - <example> this->area();----will be---->ptr_1->area()       
