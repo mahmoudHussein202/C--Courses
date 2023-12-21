@@ -12,8 +12,8 @@
 * 10- operator overloading (unary,binary,relational,friend,i/o)
 * 11- inheritence 
 * 12- Polymorphism
-* 13-
-14-
+* 13- templates & template specializtion
+* 14-
 15-
 16-
 .
