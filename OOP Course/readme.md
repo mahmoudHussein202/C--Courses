@@ -11,8 +11,8 @@
 * 9- this
 * 10- operator overloading (unary,binary,relational,friend,i/o)
 * 11- inheritence 
-* 12-
-13-
+* 12- Polymorphism
+* 13-
 14-
 15-
 16-
