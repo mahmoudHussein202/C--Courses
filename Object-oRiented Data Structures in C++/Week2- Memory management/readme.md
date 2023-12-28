@@ -34,10 +34,8 @@ Note: heap memory has lower addresses than stack memory, look at this example:
 
 
 
-## ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.003.png)![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.004.png)**Stack memory VS Heap memory:**
-
-
-
+**Stack memory VS Heap memory:**
+## ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.003.png)![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.004.png)
 
 
 
