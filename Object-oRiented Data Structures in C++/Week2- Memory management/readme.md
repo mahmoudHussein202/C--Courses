@@ -1,9 +1,10 @@
 ﻿# **Stack Memory**
+ -------------
 - In C++, programmers like us have control over the memory and the lifecycle of every single variable we create.
 - Stack memory is associated with the current function, so when the function returns or ends , the stack memory of  that function is released.
 - Stack memories are always starts from a high address and keep moving downwards to zero address:
 
-  ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.001.png)   ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.002.png)
+  ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.001.png)    ![](Notes/Aspose.Words.5ac65091-2037-48ea-b6ac-5a99d7f794d4.002.png)
 
 
 
